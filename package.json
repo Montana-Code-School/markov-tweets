@@ -1,0 +1,26 @@
+{
+  "name": "markov-tweets",
+  "version": "1.0.0",
+  "description": "markov tweets challenge",
+  "main": "markov.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Montana-Code-School/markov-tweets.git"
+  },
+  "author": "MTCS03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Montana-Code-School/markov-tweets/issues"
+  },
+  "homepage": "https://github.com/Montana-Code-School/markov-tweets#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}

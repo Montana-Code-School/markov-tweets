@@ -4,6 +4,7 @@ In this exercise we will create a program that can read a twitter users history 
 
 1. Create a function that, given a string. Splits it up into words by spaces. For instance "I have a dog." should produce the array ["I", "have", "a", "dog"]
 
+
 2. Using the above function. Write a function that returns a count of the number of times a word appears in the input string. So with an input of "The dog smelled the other dog" it returns {The: 1, dog: 2, smelled: 1, the: 1, other: 1}
 
 3. Write a function that counts the number of times a word occurs after 'dog.' Use the special string <eom> if 'dog is the last word in the string.  So the input from exercise 2 should return {smelled : 1, <eom> : 1} 
